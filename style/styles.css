@@ -1,7 +1,7 @@
 /*
-font-family: 'Alfa Slab One', cursive;
-font-family: 'Comforter Brush', cursive;
-font-family: 'Lato', sans-serif;
+font-family: 'italic', cursive;
+font-family: 'lato', cursive;
+font-family: 'comforter brush', sans-serif;
 
 */
 body{
@@ -9,13 +9,13 @@ body{
 }
 
 h1{
-	font-family: 'Alfa Slab One', cursive;
+	font-family: 'italic', cursive;
 	background-color: #ccffff;
 }
 .para1{
-	font-family: 'Comforter Brush', cursive;
+	font-family: 'lato', cursive;
 }
 .para2{
-	font-family: 'Lato', sans-serif;
+	font-family: 'comforter brush', sans-serif;
 }
 
